@@ -21,4 +21,4 @@ In this project, I compared different models for sentiment analysis on financial
 - Rule based approach using Lexicon
 - Traditional Machine Learning approach using Tfidf
 - LSTM as a Recurrent Neural Network architecture
-- BERT (and ALBERT)
+- BERT
